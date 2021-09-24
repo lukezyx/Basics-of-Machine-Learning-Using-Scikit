@@ -9,6 +9,8 @@ Course was conducted from 22/9/2021 to 23/9/2021.
 1. [Orange Data Science](https://orangedatamining.com/) - open-source resource for visualizing ML algorithms such as clustering
 2. [Nando de Freitas on YT](https://www.youtube.com/results?search_query=nando+de+freitas) - good resource for deep learning
 3. [Data School on YT](https://youtube.com/c/dataschool/) - good resouce for ML in Python with scikit-learn
+4. [fast.ai ML course](https://course18.fast.ai/index.html) - ML course
+5. 
 
 ## Useful topics brought up during the course
 
